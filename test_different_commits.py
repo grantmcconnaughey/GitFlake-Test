@@ -5,3 +5,6 @@ def function_one(self):
 def function_two(self):
     pass
 
+def function_three(self):
+    pass
+
