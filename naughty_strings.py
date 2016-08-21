@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 
 def testing_naughty_strings_in_a_file():
     '''
