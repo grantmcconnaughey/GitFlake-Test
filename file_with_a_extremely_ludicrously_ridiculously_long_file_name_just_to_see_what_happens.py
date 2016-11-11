@@ -1,5 +1,10 @@
+from collections import *
+from decimal import Decimal
+
 class Test(object):
-    pass
+
+    def __init__(self):
+        print x
 
 
 def a_test():
@@ -10,4 +15,10 @@ def only_one_space():
 def no_space_between_functions():
     pass
 def testing():
+    pass
+def testing2():
+    print x
+def testing3():
+    pass
+def testing4():
     pass
