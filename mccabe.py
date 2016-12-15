@@ -59,3 +59,5 @@ def test_mccabe():
         print 'Less than 8'
     elif c < 9:
         print 'Less than 9'
+    elif c < 10:
+        print 'Less than 10'
