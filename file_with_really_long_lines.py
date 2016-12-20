@@ -7,9 +7,9 @@ def test_function():
 
 def test_bad_func1():
     pass
-def test_bad_func1():
+def test_bad_func2():
     pass
-def test_bad_func1():
+def test_bad_func3():
     pass
-def test_bad_func1():
+def test_bad_func4():
     pass
