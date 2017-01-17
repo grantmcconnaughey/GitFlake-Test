@@ -1,2 +1,6 @@
-python:
-  version: 3
+lintly:
+  bot: grantmcconnaughey
+
+languages:
+  python:
+    version: 3
