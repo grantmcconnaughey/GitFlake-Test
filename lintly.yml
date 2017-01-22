@@ -1,0 +1,5 @@
+linters:
+  eslint:
+    enabled: true
+  flake8:
+    enabled: true
