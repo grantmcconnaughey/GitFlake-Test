@@ -4,11 +4,11 @@ languages:
 
 notifications:
   commit_status:
-    enabled: true
+    enabled: false
   pr_comments:
-    enabled: true
+    enabled: false
   email:
-    enabled: true
+    enabled: false
     score_decreases_percentage: 0.1
     addresses:
       - grantmcconnaughey@gmail.com
