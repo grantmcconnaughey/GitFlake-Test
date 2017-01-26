@@ -1,0 +1,19 @@
+languages:
+  python:
+    version: 2
+
+notifications:
+  commit_status:
+    enabled: false
+  pr_comments:
+    enabled: false
+  email:
+    enabled: true
+    score_decreases_percentage: 0.0
+    addresses:
+      - grantmcconnaughey@gmail.com
+  slack:
+    enabled: false
+    score_decreases_percentage: 0.5
+    webhook_url: ""
+    channel: "#general"
